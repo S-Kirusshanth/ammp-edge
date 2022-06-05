@@ -7,6 +7,7 @@ mod constants;
 mod helpers;
 mod interfaces;
 mod node_mgmt;
+mod web_ui;
 
 use anyhow::{anyhow, Result};
 use env_logger::Env;

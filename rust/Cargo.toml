@@ -13,6 +13,7 @@ chrono = "*"
 dotenv = "*"
 env_logger = { version = "*", default-features = false }
 getrandom = "*"
+handlebars = "*"
 hex = "*"
 kvstore = { path = "kvstore" }
 log = "*"
