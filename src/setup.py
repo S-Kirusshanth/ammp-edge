@@ -47,7 +47,7 @@ setup(
             'env_scan_svc = env_scan_svc:main'
         ]
     },
-    python_requires='~=3.6',
+    python_requires='~=3.10',
     install_requires=[
         'python-dotenv',
         'pyModbusTCP',
@@ -62,5 +62,5 @@ setup(
         'flask',
         'paho-mqtt',
         'pyjsonata>=0.0.1a9',
-    ]
+    ],
 )
